@@ -1,2 +1,2 @@
-in/bash
-echo "School"
+#!/bin/bash
+The school is open
